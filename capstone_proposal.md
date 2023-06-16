@@ -29,10 +29,12 @@
 * user can drag and drop timeblocks into planner to build their day
 
 ### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
-
+* react-dnd
+* firebase
 
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
-
+* graphical readout of time allocation (i.e. a pie chart). Can be for the day, week, or both. 
+* user can set personal goals for time allocation. e.g. - "I want to spend 15% of my time on self-care"
 
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
