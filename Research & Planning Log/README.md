@@ -8,3 +8,4 @@
 
 #### Saturday, 06/17
 * 1:15 pm: research potential tools needed for stretch goals
+* 5:15 pm: research MaterialUI for styling, and ChartJS for pie charts

@@ -37,6 +37,8 @@
 * user can set personal goals for time allocation. e.g. - "I want to spend 15% of my time on self-care"
 
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+* MaterialUI
+* ChartJS
 
 
 ### Is there anything else you'd like your instructor to know?
